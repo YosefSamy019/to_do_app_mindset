@@ -1,16 +1,17 @@
-# to_do_mindset
+# ToDo App
+Introduction
+This is a simple ToDo application built using Flutter. The app allows users to add, edit, and remove tasks. It features a clean user interface and follows clean architecture principles to ensure maintainable and scalable code.
+The application is made upon request of 'Mindset' which is a part of hiring process.
 
-A new Flutter project.
+# Features
+Add new tasks
+Edit existing tasks
+Remove tasks
 
-## Getting Started
+# Content
+Entry page to show available tasks
+2nd page to edit/add new task
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Getting Start
+The projected is tested via platforms: Windows, 
+In first time you open the app, it requires internet connection to load initial tasks from 'https://jsonplaceholder.typicode.com/todos', then it runs offline.
